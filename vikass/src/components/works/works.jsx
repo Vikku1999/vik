@@ -1,5 +1,5 @@
 import React from 'react'
-import "./works.scss";
+// import "./works.scss";
 import "C:/Users/Vikas/Desktop/vik/vikass/src/components/intro/a.scss";
 
 export default function Works() {
